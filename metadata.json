@@ -1,0 +1,29 @@
+{
+  "repoUrl": "https://github.com/feit-comp30019/2024s2-project-2-spectro-studio",
+  "teamName": "Spectro Studio",
+  "teamMembers": [
+    {
+      "name": "Erich Wiguna",
+      "github": "16Ric",
+      "email": "ewiguna@student.unimelb.edu.au"
+    },
+    {
+      "name": "Jessica Aurelia Wijaya",
+      "github": "jessicaaurel",
+      "email": "jessicaaurel@student.unimelb.edu.au"
+    },
+    {
+      "name": "Lokuliyana Waduge Lokuliyana",
+      "github": "llokuliyana",
+      "email": "llokuliyana@student.unimelb.edu.au"
+    },
+    {
+      "name": "Reagen Purnama",
+      "github": "reagenpurnama",
+      "email": "rpurnama@student.unimelb.edu.au"
+    }
+  ],
+  "gameTitle": "Library of Lost Souls",
+  "gameBlurb": "The Library of Lost Souls is a 3D, eerie adventure game where you play as John Sinclair, a university student who stumbles upon a hidden section of the campus library. This forgotten library is filled with books that bear the names of people who mysteriously vanished, each one detailing their lost fate. As the player, you must navigate the dark and unsettling corridors, uncovering secrets and solving intricate puzzles to escape the library grip. But beware - the Librarian watches your every move, waiting for the moment you falter. If you fail to escape, John will become the library next lost soul, his fate sealed in a book that will forever bear his name.",
+  "videoUrl": "https://youtu.be/op-HzEB3dBc?feature=shared"
+}

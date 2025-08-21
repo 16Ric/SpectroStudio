@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ab7ac235e45546dbbe656d8fc342eaa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pianoKeys: {fileID: 8441583718172179031, guid: 52f8547af36864958a3240216f6e0eb2,
+      type: 3}
+  - pianoDialogue: {fileID: 2461007492557802451, guid: b8b87386ea23740d0b51666e02ee7b4b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
